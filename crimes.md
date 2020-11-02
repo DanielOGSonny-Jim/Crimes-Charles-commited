@@ -2,8 +2,8 @@
 1, 4, 5, 6
 # Debts
 1x Paragon mk2 (Yoshi / Panzer III)
-
-~~2x Aurora mk2 (Darsktepan)~~
+1x Ozark
+~~2x Aurora mk2 (Darsktepan)~~ Forgiven
 # Other
 Proposing unreasonable demands (Demanding to HR that they need a knifejaw ASAP)
 
