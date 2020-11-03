@@ -18,7 +18,7 @@
 - 827 Korrelite
 - 522 Reknite
 - 291 Gellium
-
+- 1 Narcor
 # Other
 Proposing unreasonable demands (Demanding to HR that they need a knifejaw ASAP)
 Killing a fellow faction member, destroying their ship (Panzer III, formerly "Charles")
