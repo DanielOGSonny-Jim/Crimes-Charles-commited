@@ -11,7 +11,6 @@
 
 ## Items
 - 5 Damaged saphire spice (300 credits per piece)
-- 1 Narcor
 - 1 scanning probe II
 - 1 contraband goods (est. 1500 - 2000 credits)
 ## Resources
