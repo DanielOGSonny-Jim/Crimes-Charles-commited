@@ -7,7 +7,7 @@
 - 1,350 Gellium
 - 450 Axnit
 - 150 Narcor
-- 100 Recor
+- 100 Red narcor
 ## Remaining
 To be added
 
