@@ -2,8 +2,11 @@
 1, 4, 5, 6
 # Debts
 1x Paragon mk2 (Yoshi / Panzer III)[est. 18 289 credits]
+
 1x Ozark [est. 93 828 credits][2800 kor, 1650 rek,	900 gel,	300 ax,	100 narc]
+
 ~~2x Aurora mk2 (Darsktepan)~~ Forgiven
+
 # Paid
 
 ## Items
