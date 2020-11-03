@@ -15,10 +15,13 @@
 - 1 scanning probe II
 - 1 contraband goods (est. 1500 - 2000 credits)
 ## Resources
-- 827 Korrelite
+- 823 Korrelite
 - 522 Reknite
-- 291 Gellium
-- 1 Narcor
+- 291 Gelium
+- 30 Axnit
+- 182 Narcor
+- 61 Red narcor
+
 # Other
 Proposing unreasonable demands (Demanding to HR that they need a knifejaw ASAP)
 Killing a fellow faction member, destroying their ship (Panzer III, formerly "Charles")
