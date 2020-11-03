@@ -10,14 +10,14 @@
 # Paid
 
 ## Items
-- 5 Damaged saphire spice (300pp)
+- 5 Damaged saphire spice (300 credits per piece)
 - 1 Narcor
 - 1 scanning probe II
-- 1 contraband goods
+- 1 contraband goods (est. 1500 - 2000 credits)
 ## Resources
-- 600 Korrelite
-- 400 Reknite
-- 300 Gellium
+- 827 Korrelite
+- 522 Reknite
+- 291 Gellium
 
 # Other
 Proposing unreasonable demands (Demanding to HR that they need a knifejaw ASAP)
