@@ -18,9 +18,9 @@ To be added
 - 1 scanning probe II
 - 1 contraband goods (est. 1500 - 2000 credits)
 ## Resources
-- 823 Korrelite
-- 522 Reknite
-- 291 Gelium
+- 1062 Korrelite
+- 761 Reknite
+- 504 Gelium
 - 30 Axnit
 - 182 Narcor
 - 61 Red narcor
