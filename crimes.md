@@ -13,15 +13,23 @@ To be added
 
 # Paid
 
+
 ## Items
+- 45 Credits
 - 5 Damaged saphire spice (300 credits per piece)
 - 1 scanning probe II
 - 1 contraband goods (est. 1500 - 2000 credits)
+- 3 Miner III turrets (needs estimate)
+- 1 Tractor III turret (needs estimate)
+- 2 Warp field amplifiers II
+- 1 Drone core
+- 1 Rogue helmet
+- 1 Rogue legs
 ## Resources
-- 1062 Korrelite
-- 761 Reknite
+- 2606 Korrelite
+- 1240 Reknite
 - 504 Gelium
-- 30 Axnit
+- 31 Axnit
 - 182 Narcor
 - 61 Red narcor
 
