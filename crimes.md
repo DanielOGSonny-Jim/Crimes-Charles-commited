@@ -27,8 +27,8 @@ To be added
 - 1 Rogue helmet
 - 1 Rogue legs
 ## Resources
-- 2606 Korrelite
-- 1240 Reknite
+- 3204 Korrelite
+- 2575 Reknite
 - 504 Gelium
 - 31 Axnit
 - 182 Narcor
