@@ -2,11 +2,11 @@
 1, 4, 5, 6
 # Debt
 ## Total - needs verification
-- 4,200 Korrelite    
-- 2475 Reknite
+- ~~4,200 Korrelite~~ Paid    
+- ~~2475 Reknite~~ Paid
 - 1,350 Gellium
 - 450 Axnit
-- 150 Narcor
+- ~~150 Narcor~~ Paid
 - 100 Red narcor
 ## Remaining
 To be added
@@ -27,7 +27,7 @@ To be added
 - 1 Rogue helmet
 - 1 Rogue legs
 ## Resources
-- 3204 Korrelite
+- 4204 Korrelite
 - 2575 Reknite
 - 504 Gelium
 - 31 Axnit
