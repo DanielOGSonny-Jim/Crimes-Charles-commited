@@ -15,6 +15,7 @@ To be added
 
 
 ## Items
+- 3 player tags
 - 45 Credits
 - 5 Damaged saphire spice (300 credits per piece)
 - 1 scanning probe II
