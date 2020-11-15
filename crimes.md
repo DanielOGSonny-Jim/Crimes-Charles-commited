@@ -4,7 +4,7 @@
 ## Total - needs verification
 - ~~4,200 Korrelite~~ Paid    
 - ~~2475 Reknite~~ Paid
-- 1,350 Gellium
+- ~~1,350 Gellium~~ Paid
 - 450 Axnit
 - ~~150 Narcor~~ Paid
 - 100 Red narcor
@@ -29,8 +29,8 @@ To be added
 ## Resources
 - 4204 Korrelite
 - 2575 Reknite
-- 504 Gelium
-- 31 Axnit
+- 1446 Gelium
+- 128 Axnit
 - 182 Narcor
 - 61 Red narcor
 
