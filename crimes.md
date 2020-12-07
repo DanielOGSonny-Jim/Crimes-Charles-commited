@@ -9,11 +9,10 @@
 - ~~150 Narcor~~ Paid
 - 100 Red narcor
 ## Remaining
-To be added
+## Resources
+- 39 Red narcor
 
 # Paid
-
-
 ## Items
 - 3 player tags
 - 45 Credits
